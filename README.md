@@ -36,14 +36,14 @@ Asegurar el correcto funcionamiento de la aplicación web mediante la ejecución
 
 ## 📸 Evidencia
 
-### 🔹 Pruebas de interfaz
-![UI Testing](./ui-testing.png)
+### 🔹 Casos de prueba en navegador
+![Casos navegador](./casosdepruebanavegador.png)
 
-### 🔹 Validación de formularios
-![Forms](./form-testing.png)
+### 🔹 Comprobación de funcionalidades
+![Comprobación](./comprobacion.png)
 
-### 🔹 Reporte de bug
-![Bug](./bug-report.png)
+### 🔹 Lista de comprobación (checklist)
+![Checklist](./listadecomprobacion.png)
 
 ---
 
